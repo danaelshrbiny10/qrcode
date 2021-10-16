@@ -1,5 +1,5 @@
 # Description:
-    - python qrcode scanner for my linkedin 
+    - python qrcode scanner testing
 
 # Language:
     - python
